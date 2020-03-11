@@ -1,2 +1,3 @@
 # api_movie
-<h1>teste</h1>
+<hr>
+<h3><b>Recursos</b></h3>
