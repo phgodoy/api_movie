@@ -1,3 +1,3 @@
 # api_movie
 
-<h3><b>Recursos</b></h3>
+<h2><b>Recursos</b></h2>
