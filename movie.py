@@ -13,7 +13,7 @@ class Movie:
        
         #organiza os dados da requisicao
         self.dictionary = json.loads(req.text)
-        print(self.dic)
+      
         
 
     #printa em forma de lista 
