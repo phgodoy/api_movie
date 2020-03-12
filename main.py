@@ -3,7 +3,7 @@ import movie as mv
 
 #declaracao das variaveis
 esc = False
-dic = False
+dictionary = False
 
 #menu
 while not esc:
@@ -12,5 +12,5 @@ while not esc:
     if op == 'exit':
         esc = True
     else:
-        movie1 = mv.Movie(op,dic)    
+        movie1 = mv.Movie(op,dictionary)    
         print(movie1.printDetails(op))
