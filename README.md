@@ -10,4 +10,4 @@
 </ul>  
 
 <h2><b>Modo de usar </b></h2>
-<p> Ao execultar o programa sera requisitado ao usuario informar o nome de um filme que deseja consultar ou passar a palava <b>exiti</b> para sair do programa. Caso o filme seja encontrado sera retornado as seguntes informações: titulo, ano, clasificação, data de lançamento, genero e um link para o poster do filme. </p>
+<p> Ao executar o programa será requisitado ao usuário informar o nome de um filme que deseja consultar ou passar a palavra exiti para sair do programa. Caso o filme seja encontrado será retornado as seguintes informações: titulo, ano, classificação, data de lançamento, género e um link para o poster do filme. </p>
