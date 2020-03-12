@@ -13,8 +13,8 @@
 utilize os seguintes comandos para instalar as bibliotecas necessárias:
 <ul>
   <li>pip install json </li>
-  <li>pip install json</li>
-</ul>  
+  <li>pip install requests</li>
+</ul>
 
 
 <h2><b>Modo de usar </b></h2>
