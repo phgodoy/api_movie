@@ -10,7 +10,7 @@
 </ul>  
 
 <h2><b>Instalação das bibliotecas  </b></h2>
-utilize os seguintes comandos para instalar as bibliotecas necessárias:
+utilize os seguintes comandos dentro do diretorio e no terminal para instalar as bibliotecas necessárias:
 <ul>
   <li>pip install json </li>
   <li>pip install requests</li>
